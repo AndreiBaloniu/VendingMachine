@@ -1,0 +1,5 @@
+1 croissant 10
+3 Pepsi 5
+3 Pepsi 5
+7 croissant 4
+10 pizza 7

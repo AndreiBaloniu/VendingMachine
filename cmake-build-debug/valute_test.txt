@@ -1,0 +1,2 @@
+bancnota 1
+bancnota 5
